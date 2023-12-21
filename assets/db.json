@@ -1,0 +1,710 @@
+{
+    "equipe": [{
+            "departamento": "GABINETE DA DIRETORIA",
+            "membros": [{
+                    "id": 1,
+                    "nome": "Nilze",
+                    "ramal": 9544,
+                    "email": "diretoria@crf-pr.org.br"
+                },
+                {
+                    "id": 2,
+                    "nome": "Patricia",
+                    "ramal": 9553,
+                    "email": "presidencia@crf-pr.org.br"
+                },
+                {
+                    "id": 3,
+                    "nome": "Rejane",
+                    "ramal": 9542,
+                    "email": "gabinete@crf-pr.org.br/presidencia@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "COMUNICAÇÃO",
+            "membros": [{
+                    "id": 4,
+                    "nome": "Ana",
+                    "ramal": 9563,
+                    "email": "imprensa@crf-pr.org.br"
+                },
+                {
+                    "id": 5,
+                    "nome": "Laura",
+                    "ramal": 9561
+                },
+                {
+                    "id": 6,
+                    "nome": "Michelly",
+                    "ramal": 9560
+                }
+            ]
+        },
+        {
+            "departamento": "ASSESSORIA",
+            "membros": [{
+                    "id": 7,
+                    "nome": "Maria Augusta",
+                    "ramal": 9557,
+                    "email": "ac@crf-pr.org.br"
+                },
+                {
+                    "id": 8,
+                    "nome": "Karine",
+                    "ramal": 9540,
+                    "email": "ouvidoria@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "CADASTRO",
+            "membros": [{
+                    "id": 9,
+                    "nome": "Arindal",
+                    "ramal": 9501,
+                    "email": "arindal.junior@crf-pr.org.br"
+                },
+                {
+                    "id": 10,
+                    "nome": "Celita",
+                    "ramal": null,
+                    "email": "celita.silva@crf-pr.org.br"
+                },
+                {
+                    "id": 11,
+                    "nome": "Eduardo",
+                    "ramal": 9506,
+                    "email": "eduardo.shikasho@crf-pr.org.br"
+                },
+                {
+                    "id": 12,
+                    "nome": "Flávia",
+                    "ramal": 9510,
+                    "email": "flavia.cadastro@crf-pr.org.br"
+                },
+                {
+                    "id": 13,
+                    "nome": "Gabriele",
+                    "ramal": 9520,
+                    "email": "gabriele.pereira@crf-pr.org.br"
+                },
+                {
+                    "id": 14,
+                    "nome": "Lauro",
+                    "ramal": 9607,
+                    "email": "lauro.urbano@crf-pr.org.br"
+                },
+                {
+                    "id": 15,
+                    "nome": "Lourdes",
+                    "ramal": 9606,
+                    "email": "lourdes.pini@crf-pr.org.br"
+                },
+                {
+                    "id": 16,
+                    "nome": "Melany",
+                    "ramal": 9505,
+                    "email": "melany.ribeiro@crf-pr.org.br"
+                },
+                {
+                    "id": 17,
+                    "nome": "Rodrigo",
+                    "ramal": 9508,
+                    "email": "rodrigo.cadastro@crf-pr.org.br"
+                },
+                {
+                    "id": 18,
+                    "nome": "Talita",
+                    "ramal": 9504,
+                    "email": "talita.fernandes@crf-pr.org.br"
+                },
+                {
+                    "id": 19,
+                    "nome": "Thalles",
+                    "ramal": 9507,
+                    "email": "thalles.souza@crf-pr.org.br"
+                },
+                {
+                    "id": 20,
+                    "nome": "Victória",
+                    "ramal": 9503,
+                    "email": "victoria.silva@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "RECEPÇÃO",
+            "membros": [{
+                    "id": 21,
+                    "nome": "Rafael",
+                    "ramal": 9521,
+                    "email": "rafael.cadastro@crf-pr.org.br"
+                },
+                {
+                    "id": 22,
+                    "nome": "Sara",
+                    "ramal": 9502,
+                    "email": "sara.marasca@crf-pr.org.br"
+                },
+                {
+                    "id": 23,
+                    "nome": "Sílvia",
+                    "ramal": 9522,
+                    "email": "silvia.cadastro@crf-pr.org.br"
+                },
+                {
+                    "id": 24,
+                    "nome": "Lorena",
+                    "ramal": 9501,
+                    "email": "lorena.silva@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "COBRANÇA",
+            "membros": [{
+                    "id": 25,
+                    "nome": "Luiz",
+                    "ramal": 9532,
+                    "email": "cobranca@crf-pr.org.br"
+                },
+                {
+                    "id": 26,
+                    "nome": "Nilza",
+                    "ramal": 9531,
+                    "email": "cobranca@crf-pr.org.br"
+                },
+                {
+                    "id": 27,
+                    "nome": "Sérgio",
+                    "ramal": 9533,
+                    "email": "cobranca@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "ADMINISTRATIVO/COMPRAS",
+            "membros": [{
+                    "id": 28,
+                    "nome": "Almir",
+                    "ramal": 9603,
+                    "email": "almir.rosa@crf-pr.org.br"
+                },
+                {
+                    "id": 29,
+                    "nome": "Viviane",
+                    "ramal": 9586,
+                    "email": "viviane.possamai@crf-pr.org.br"
+                },
+                {
+                    "id": 30,
+                    "nome": "Eluise",
+                    "ramal": 9603,
+                    "email": "eluise.caires@crf-pr.org.br"
+                },
+                {
+                    "id": 31,
+                    "nome": "Hennir",
+                    "ramal": 9534,
+                    "email": "hennir.condore@crf-pr.org.br"
+                },
+                {
+                    "id": 32,
+                    "nome": "Marissol",
+                    "ramal": 9535,
+                    "email": "marissol.alves@crf-pr.org.br"
+                },
+                {
+                    "id": 33,
+                    "nome": "Ana Carolina",
+                    "ramal": 9569,
+                    "email": "ana.souza@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "ÉTICA",
+            "membros": [{
+                    "id": 34,
+                    "nome": "Edneia",
+                    "ramal": 9552,
+                    "email": "etica@crf-pr.org.br"
+                },
+                {
+                    "id": 35,
+                    "nome": "Fernanda",
+                    "ramal": 9585,
+                    "email": "fernanda.etica@crf-pr.org.br"
+                },
+                {
+                    "id": 36,
+                    "nome": "Rayra",
+                    "ramal": 9582
+                }
+            ]
+        },
+        {
+            "departamento": "GERENTE GERAL",
+            "membros": [{
+                "id": 37,
+                "nome": "Edivar",
+                "ramal": 9512,
+                "email": "edivar.gomes@crf-pr.org.br"
+            }]
+        },
+        {
+            "departamento": "PESSOAL",
+            "membros": [{
+                    "id": 38,
+                    "nome": "Ana",
+                    "ramal": 9541,
+                    "email": "ana.pereira@crf-pr.org.br"
+                },
+                {
+                    "id": 39,
+                    "nome": "Guilherme",
+                    "ramal": 9541,
+                    "email": "Guilherme.pereira@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "JURÍDICO",
+            "membros": [{
+                    "id": 40,
+                    "nome": "Vinícius",
+                    "ramal": 9574,
+                    "email": "juridico@crf-pr.org.br"
+                },
+                {
+                    "id": 41,
+                    "nome": "Josiane",
+                    "ramal": 9573
+                },
+                {
+                    "id": 42,
+                    "nome": "Melissa",
+                    "ramal": 9570
+                },
+                {
+                    "id": 43,
+                    "nome": "Guilherme",
+                    "ramal": 9571
+                }
+            ]
+        },
+        {
+            "departamento": "FISCALIZAÇÃO",
+            "membros": [{
+                    "id": 44,
+                    "nome": "Douglas",
+                    "ramal": 9594,
+                    "email": "douglas.viegas@crf-pr.org.br"
+                },
+                {
+                    "id": 45,
+                    "nome": "Karoline",
+                    "ramal": 9590,
+                    "email": "karoline.chuery@crf-pr.org.br"
+                },
+                {
+                    "id": 46,
+                    "nome": "Orivaldo",
+                    "ramal": 9592,
+                    "email": "orivaldo.pinheiro@crf-pr.org.br"
+                },
+                {
+                    "id": 47,
+                    "nome": "Patricia",
+                    "ramal": 9548,
+                    "email": "patricia.shiozawa@crf-pr.org.br"
+                },
+                {
+                    "id": 48,
+                    "nome": "Tayná",
+                    "ramal": 9595,
+                    "email": "tayna.lima@crf-pr.org.br"
+                },
+                {
+                    "id": 49,
+                    "nome": "Ygor",
+                    "ramal": 9592,
+                    "email": "ygor.eckstein@crf-pr.org.br"
+                },
+                {
+                    "id": 50,
+                    "nome": "Camila",
+                    "ramal": 9548,
+                    "email": "camila.castro@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "FINANCEIRO",
+            "membros": [{
+                    "id": 51,
+                    "nome": "Jéssica",
+                    "ramal": 9547,
+                    "email": "jessica.souza@crf-pr.org.br"
+                },
+                {
+                    "id": 52,
+                    "nome": "Cristiane",
+                    "ramal": 9545,
+                    "email": "cristiane.bregenski@crf-pr.org.br"
+                },
+                {
+                    "id": 53,
+                    "nome": "Maria Isabel",
+                    "ramal": 9546,
+                    "email": "maria.capel@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "GERENTE DE PLANEJAMENTO E CONTROLE INTERNO",
+            "membros": [{
+                "id": 54,
+                "nome": "Eduarda",
+                "ramal": 9608,
+                "email": "eduarda.santos@crf-pr.org.br"
+            }]
+        },
+        {
+            "departamento": "TÉCNICO-CIENTÍFICO",
+            "membros": [{
+                    "id": 55,
+                    "nome": "Jackson",
+                    "ramal": 9581,
+                    "email": "jackson.cim@crf-pr.org.br"
+                },
+                {
+                    "id": 56,
+                    "nome": "Karin",
+                    "ramal": 9565,
+                    "email": "karin.cim@crf-pr.org.br"
+                },
+                {
+                    "id": 57,
+                    "nome": "Rafaela",
+                    "ramal": 9580,
+                    "email": "rafaela.cim@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "T.I.",
+            "membros": [{
+                    "id": 58,
+                    "nome": "HelpDesk",
+                    "ramal": 9511,
+                    "email": "helpdesk@crf-pr.org.br"
+                },
+                {
+                    "id": 59,
+                    "nome": "Marcus",
+                    "ramal": 9601,
+                    "email": "marcus.ribeiro@crf-pr.org.br"
+                },
+                {
+                    "id": 60,
+                    "nome": "Sander",
+                    "ramal": 9600,
+                    "email": "sanderval.santos@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "DIRETORIA",
+            "membros": [{
+                    "id": 61,
+                    "nome": "Eduardo",
+                    "ramal": null,
+                    "email": "eduardo.valerio@crf-pr.org.br"
+                },
+                {
+                    "id": 62,
+                    "nome": "Greyzel",
+                    "ramal": null,
+                    "email": "greyzel.benke@crf-pr.org.br"
+                },
+                {
+                    "id": 63,
+                    "nome": "Márcio",
+                    "ramal": null,
+                    "email": "marcio.antoniassi@crf-pr.org.br"
+                },
+                {
+                    "id": 64,
+                    "nome": "Valquires",
+                    "ramal": null,
+                    "email": "valquires.godoy@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "FISCAIS",
+            "membros": [{
+                    "id": 65,
+                    "nome": "Daiane",
+                    "ramal": null,
+                    "email": "daiane.perondi.crfpr@gmail.com"
+                },
+                {
+                    "id": 66,
+                    "nome": "Eduardo Toledo",
+                    "ramal": null,
+                    "email": "eduardo.freitas.crfpr@gmail.com"
+                },
+                {
+                    "id": 67,
+                    "nome": "Elias Curitiba",
+                    "ramal": null,
+                    "email": "elias.montin.crfpr@gmail.com"
+                },
+                {
+                    "id": 68,
+                    "nome": "Edson Garcia",
+                    "ramal": null,
+                    "email": "edson.garcia.crfpr@gmail.com"
+                },
+                {
+                    "id": 69,
+                    "nome": "Luciano Maringá",
+                    "ramal": null,
+                    "email": "luciano.goncalves.crfpr@gmail.com"
+                },
+                {
+                    "id": 70,
+                    "nome": "Marcelo Curitiba",
+                    "ramal": null,
+                    "email": "marcelo.polak.crfpr@gmail.com"
+                },
+                {
+                    "id": 71,
+                    "nome": "Nayana Curitiba",
+                    "ramal": null,
+                    "email": "nayana.banhara.crfpr@gmail.com"
+                },
+                {
+                    "id": 72,
+                    "nome": "Jose Pacola F. Beltrão",
+                    "ramal": null,
+                    "email": "jose.pacola.crfpr@gmail.com"
+                },
+                {
+                    "id": 73,
+                    "nome": "Eduardo Pazim Curitiba",
+                    "ramal": null,
+                    "email": "eduardo.pazim.crfpr@gmail.com"
+                },
+                {
+                    "id": 74,
+                    "nome": "Ribamar P. Grossa",
+                    "ramal": null,
+                    "email": "ribamar.schmitz.crfpr@gmail.com"
+                },
+                {
+                    "id": 75,
+                    "nome": "Jorge Salem Maringá",
+                    "ramal": null,
+                    "email": "jorge.salem.crfpr@gmail.com"
+                },
+                {
+                    "id": 76,
+                    "nome": "Silvio Maringá",
+                    "ramal": null,
+                    "email": "silvio.franchetti.crfpr@gmail.com"
+                },
+                {
+                    "id": 77,
+                    "nome": "Edson Siqueira Cascavel",
+                    "ramal": null,
+                    "email": "edson.alves.crfpr@gmail.com"
+                },
+                {
+                    "id": 78,
+                    "nome": "Welinson Curitiba",
+                    "ramal": null,
+                    "email": "welison.silva.crfpr@gmail.com"
+                },
+                {
+                    "id": 79,
+                    "nome": "Glaucio Maringá",
+                    "ramal": null,
+                    "email": "glaucio.rodrigues.crfpr@gmail.com"
+                },
+                {
+                    "id": 80,
+                    "nome": "Josineia Londrina",
+                    "ramal": null,
+                    "email": "josineia.baum.crfpr@gmail.com"
+                },
+                {
+                    "id": 81,
+                    "nome": "Sérgio Curitiba",
+                    "ramal": null,
+                    "email": "sergio.mori@crf-pr.org.br"
+                }
+            ]
+        },
+        {
+            "departamento": "SECCIONAIS",
+            "membros": [{
+                    "cidade": "CASCAVEL",
+                    "contatos": [{
+                            "nome": "Deise",
+                            "telefone": "(41) 99838-0880",
+                            "email": "cascavel@crf-pr.org.br"
+                        },
+                        {
+                            "nome": "Lucélia",
+                            "telefone": "(41) 99838-0880",
+                            "email": "cascavel@crf-pr.org.br"
+                        }
+                    ]
+                },
+                {
+                    "cidade": "LONDRINA",
+                    "contatos": [{
+                            "nome": "Patricia",
+                            "telefone": "(41) 99838-0660",
+                            "email": "londrina@crf-pr.org.br"
+                        },
+                        {
+                            "nome": "Patricia",
+                            "telefone": "(41) 99838-0660",
+                            "email": "londrina2@crf-pr.org.br"
+                        }
+                    ]
+                },
+                {
+                    "cidade": "PONTA GROSSA",
+                    "contatos": [{
+                            "nome": "Josiane",
+                            "telefone": "(41) 99838-0550",
+                            "email": "pontagrossa@crf-pr.org.br"
+                        },
+                        {
+                            "nome": "Flávia (estagiária)",
+                            "telefone": "(41) 99838-0550",
+                            "email": "flavia.silva@crf-pr.org.br"
+                        }
+                    ]
+                },
+                {
+                    "cidade": "MARINGÁ",
+                    "contatos": [{
+                            "nome": "Alice",
+                            "telefone": "(41) 99838-0770",
+                            "email": "maringa@crf-pr.org.br"
+                        },
+                        {
+                            "nome": "Alice",
+                            "telefone": "(41) 99838-0770",
+                            "email": "alice.niimoto@crf-pr.org.br"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Telefonista",
+                    "ramal": 9500
+                },
+                {
+                    "nome": "Sinal de Fax",
+                    "ramal": 9509
+                },
+                {
+                    "nome": "Fax Envio",
+                    "ramal": 9511
+                },
+                {
+                    "nome": "Sala de Reuniões",
+                    "ramal": 9572
+                },
+                {
+                    "nome": "Portaria",
+                    "ramal": 9558
+                },
+                {
+                    "nome": "Copa",
+                    "ramal": 9578
+                },
+                {
+                    "nome": "Cozinha",
+                    "ramal": 9539
+                },
+                {
+                    "nome": "Plenário",
+                    "ramal": 9577
+                },
+                {
+                    "nome": "Almoxarifado",
+                    "ramal": 9538
+                }
+            ]
+        },
+        {
+            "departamento": "CAPTURAR LIGAÇÕES",
+            "instrucoes": [
+                "Do mesmo grupo, digite 55;",
+                "De outro grupo, digite 54 + ramal desejado."
+            ]
+        },
+        {
+            "departamento": "TELEFONE FIXO DE MESMO DDD",
+            "instrucoes": [
+                "Digite 0 + (Senha pessoal) + (aguardar o tom de linha) + número desejado",
+                "Exemplo: 0*********3363-0000"
+            ]
+        },
+        {
+            "departamento": "CHAMADA EM ESPERA",
+            "instrucoes": [
+                "Colocar em espera: código flash + 6 + posição de espera (de 0 a 9);",
+                "Recuperar chamada em espera: código 56 + posição de espera (de 0 a 9);"
+            ]
+        },
+        {
+            "departamento": "TELEFONE FIXO DE OUTRO DDD",
+            "instrucoes": [
+                "Digite 0 + (Senha pessoal) + (aguardar o tom de linha) + operadora (preferencialmente 015) + código de área + número desejado",
+                "Exemplo: 0*********015443363-0000",
+                "CASCAVEL=021 / LONDRINA 015 / PONTA GROSSA 014"
+            ]
+        },
+        {
+            "departamento": "IDENTIFIQUE CHAMADAS INTERNAS E EXTERNAS",
+            "instrucoes": [
+                "Ligações externas: 2 toques breves e próximos",
+                "Ligações internas: toque longo e distinto"
+            ]
+        },
+        {
+            "departamento": "TELEFONE CELULAR DE MESMO DDD",
+            "instrucoes": [
+                "Digite 0 + (Senha pessoal) + (aguardar o tom de linha) + número desejado",
+                "Exemplo: 0*********9999-0000"
+            ]
+        },
+        {
+            "departamento": "SCRIPT DE ATENDIMENTO",
+            "exemplo": "Bom dia/tarde, Conselho Regional de Farmácia, SEU NOME"
+        },
+        {
+            "departamento": "TELEFONE CELULAR DE OUTRO DDD",
+            "instrucoes": [
+                "Digite 0 + (Senha pessoal) + (aguardar o tom de linha) + operadora 041 + código de área + número desejado",
+                "Exemplo: 0*********0414499999-0000"
+            ]
+        },
+        {
+            "departamento": "ANOTE OS RECADOS",
+            "instrucoes": [
+                "Caso o seu colega esteja ausente e o ramal tomar, capture a ligação, atenda e anote recado conforme exemplo abaixo:",
+                "- Anote o nome, assunto e contato. Entregue a anotação."
+            ]
+        }
+    ]
+}
